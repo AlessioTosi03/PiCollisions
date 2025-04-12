@@ -1,5 +1,5 @@
 # PiCollisions
-Python script that simulates in a discrete manner the curious and famous "Pi Colliding" problem brought up by mathematician youtuber "3Blue1Brown". In this problem, we are "mysteriously" able to calculate Pi just by using two colliding blocks.
+Python script that simulates in a discrete manner famous "Pi Colliding" problem brought up by mathematician youtuber "3Blue1Brown". In this problem, we are "mysteriously" able to calculate Pi just by using two colliding blocks.
 
 "Given two masses m1 and m2, how many collisions take place?"
 The straight (technically unproven) answer would be "#Collisions = [π/θ - 1] , where θ = arctan(√(m2/m1)). 
